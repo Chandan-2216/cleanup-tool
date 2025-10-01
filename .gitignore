@@ -1,0 +1,9 @@
+# temporary files
+*.log
+*.tmp
+
+# OS
+.DS_Store
+
+# local development
+.env
